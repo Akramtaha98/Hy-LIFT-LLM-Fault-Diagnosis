@@ -1,0 +1,5 @@
+metric,value
+accuracy,1.0000
+macro_precision,1.0000
+macro_recall,1.0000
+macro_f1,1.0000

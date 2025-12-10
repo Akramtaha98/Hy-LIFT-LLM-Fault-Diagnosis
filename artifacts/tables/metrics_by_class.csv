@@ -1,0 +1,6 @@
+label,precision,recall,f1,support
+congestion,1.0000,1.0000,1.0000,53
+backhaul,1.0000,1.0000,1.0000,65
+hardware,1.0000,1.0000,1.0000,59
+interference,1.0000,1.0000,1.0000,65
+core,1.0000,1.0000,1.0000,58

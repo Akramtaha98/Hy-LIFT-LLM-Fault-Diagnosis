@@ -1,0 +1,6 @@
+,pred_congestion,pred_backhaul,pred_hardware,pred_interference,pred_core
+true_congestion,53,0,0,0,0
+true_backhaul,0,65,0,0,0
+true_hardware,0,0,59,0,0
+true_interference,0,0,0,65,0
+true_core,0,0,0,0,58
